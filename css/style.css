@@ -192,7 +192,7 @@ body {
 .archive-year,
 .widget-title {
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 2px;
   color: #999;
   margin-bottom: 1em;
